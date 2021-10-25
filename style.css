@@ -35,7 +35,7 @@ body {
 
 .progress-container::before {
     content: '';
-    background-color: grey;
+    background-color: linen;
     position: absolute;
     top: 50%;
     left: 0;
@@ -73,7 +73,7 @@ body {
 }
 
 .circle.active {
-    border-color: yellow;
+    border-color: white;
 
 }
 
